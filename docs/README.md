@@ -42,6 +42,7 @@ macOS (OS X) development environment.
   * Incremental analysis: only the changed files and its dependencies need to be reanalized
   * False positive suppression with a possibility to add review comments
   * Result visualization in command line or in static HTML
+  * Testing a change
 
 ## Web based report storage
   * **You can store & visualize thousands of analysis reports** of many analyzers like
